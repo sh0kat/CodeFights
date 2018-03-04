@@ -1,2 +1,2 @@
 # Codefights
-My solutions to CodeFights challenges
+My solutions to CodeFights challenges :) 
