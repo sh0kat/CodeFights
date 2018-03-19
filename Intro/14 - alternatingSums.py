@@ -30,4 +30,3 @@ def alternatingSums(a):
             print(Team2)
     return (Team1,Team2)
 '''
-
