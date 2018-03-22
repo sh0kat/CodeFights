@@ -28,7 +28,6 @@ def addBorder(picture):
     return r
 
 
-
 '''
 ===Alternate Solution===
 
